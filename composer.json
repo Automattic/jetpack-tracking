@@ -9,7 +9,7 @@
 		"automattic/jetpack-connection": "^1.48.1-alpha"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^3.3.0-alpha"
+		"automattic/jetpack-changelogger": "^3.3.0"
 	},
 	"autoload": {
 		"classmap": [
