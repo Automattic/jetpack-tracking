@@ -6,10 +6,10 @@
 	"require": {
 		"automattic/jetpack-assets": "^1.18.3",
 		"automattic/jetpack-status": "^1.17.1",
-		"automattic/jetpack-connection": "^1.52.0-alpha"
+		"automattic/jetpack-connection": "^1.52.0"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^3.3.4-alpha"
+		"automattic/jetpack-changelogger": "^3.3.4"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
