@@ -6,7 +6,7 @@
 	"require": {
 		"automattic/jetpack-assets": "^1.18.4",
 		"automattic/jetpack-status": "^1.17.1",
-		"automattic/jetpack-connection": "^1.52.2"
+		"automattic/jetpack-connection": "^1.53.0-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^3.3.4"
