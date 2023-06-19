@@ -5,8 +5,8 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-assets": "^1.18.4",
-		"automattic/jetpack-status": "^1.17.2-alpha",
-		"automattic/jetpack-connection": "^1.53.0-alpha"
+		"automattic/jetpack-status": "^1.17.2",
+		"automattic/jetpack-connection": "^1.53.0"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^3.3.4"
