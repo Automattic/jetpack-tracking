@@ -10,7 +10,7 @@
 		"automattic/jetpack-connection": "^2.2.0"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^4.1.0-alpha"
+		"automattic/jetpack-changelogger": "^4.1.0"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
